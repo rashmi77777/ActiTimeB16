@@ -13,7 +13,7 @@ public class test1 {
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.get("file:///C:/Users/user/Desktop/test4.html");
        TxtPage page=new TxtPage(driver);
-       page.SetTxtBx1("sel1");
+       page.SetTxtBx1("sel13");
        page.SetTxtBx2("sel2");
        page.SetTxtBx3("sel3");
        page.SetTxtBx4("sel4");
@@ -22,7 +22,7 @@ public class test1 {
        page.SetTxtBx7("sel7");
        page.SetTxtBx8("sel812");
        page.SetTxtBx9("sel9");
-       page.SetTxtBx10("sel11");
+       page.SetTxtBx10("sell1");
        
 }
 }
