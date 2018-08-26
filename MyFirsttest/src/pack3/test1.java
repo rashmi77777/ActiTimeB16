@@ -20,9 +20,9 @@ public class test1 {
        page.SetTxtBx5("sel5");
        page.SetTxtBx6("sel6");
        page.SetTxtBx7("sel7");
-       page.SetTxtBx8("sel8");
+       page.SetTxtBx8("sel812");
        page.SetTxtBx9("sel9");
-       page.SetTxtBx10("sel10");
+       page.SetTxtBx10("sel11");
        
 }
 }
