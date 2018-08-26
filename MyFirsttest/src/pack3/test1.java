@@ -14,7 +14,7 @@ public class test1 {
 		driver.get("file:///C:/Users/user/Desktop/test4.html");
        TxtPage page=new TxtPage(driver);
        page.SetTxtBx1("sel13");
-       page.SetTxtBx2("sel2");
+       page.SetTxtBx2("sel2234345");
        page.SetTxtBx3("sel3");
        page.SetTxtBx4("sel4");
        page.SetTxtBx5("sel5");
